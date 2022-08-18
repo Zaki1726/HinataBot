@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️Oᴡɴᴇʀ One', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Two', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Three', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Four', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Five', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Six', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Seven', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Eight', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Nine', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Teen', true]
+  ['6285817964582', '️Oᴡɴᴇʀ One', true],
+  ['6285817964582', '️Oᴡɴᴇʀ Two', true],
+  ['6285817964582', '️Oᴡɴᴇʀ Three', true],
+  ['6285817964582', '️Oᴡɴᴇʀ Four', true],
+  ['6285817964582', '️Oᴡɴᴇʀ Five', true],
+  ['6285817964582', '️Oᴡɴᴇʀ Six', true],
+  ['6285817964582', '️Oᴡɴᴇʀ Seven', true],
+  ['6285817964582', '️Oᴡɴᴇʀ Eight', true],
+  ['6285817964582', '️Oᴡɴᴇʀ Nine', true],
+  ['6285817964582', '️Oᴡɴᴇʀ Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -77,15 +77,15 @@ global.xckey = 'BOhjM2hUVn'
 */
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
+global.nomorbot = '6283188229366'
+global.nomorown = '6285817964582'
+global.namebot = 'AzHil-Md'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ あ⁩ 」'
+global.wm = '                「 Azhil ⁻ ᴹ ᴰ あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
+global.wm3 = '⫹⫺ Azhil ⁻ ᴹ ᴰ'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -380,11 +380,11 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://instagram.com/notifikasi_pemberitahuan'
-global.sgh = 'https://github.com/AyGemuy'
-global.sgc = 'https://chat.whatsapp.com/BAs2c2UeLE8AaI806UWUvI'
-global.sdc = 'https://discord.com/wudysoft'
-global.snh = 'https://tiktok.com/@upload_file'
+global.sig = 'https://instagram.com/zkyze_1'
+global.sgh = 'https://github.com/zaki1726'
+global.sgc = 'https://chat.whatsapp.com/J6278UOXBAaCXUOnp2ehua'
+global.sdc = 'https://discord.com/gada'
+global.snh = 'https://tiktok.com/gada'
 
 /*Nsfw*/
 global.optsnsfw = true
@@ -425,9 +425,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Azhil ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ X Wudysoft'
+global.author = 'Azhil ⁻ ᴹ ᴰ X Wudysoft'
 global.multiplier = 10
 
 /*Pesan*/
@@ -439,18 +439,18 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/wudysoft'
-global.dana = ['0887435373103']
-global.pulsa = ['082195322106']
-global.trakteer = 'https://trakteer.id/wudysoft'
-global.paypal = 'wudysoft@mail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
-global.psaweria = 'https://saweria.com/Wudysoft'
+global.saweria = 'https://saweria.co/gada'
+global.dana = ['085817964582']
+global.pulsa = ['085817964582']
+global.trakteer = 'https://trakteer.id/gada'
+global.paypal = '6285817964582'
+global.gopay = '6285817964582'
+global.pdana = '6285817964582'
+global.povo = '6285817964582'
+global.pgopay = '6285817964582'
+global.ppulsa = '6285817964582'
+global.ppulsa2 = '6285817964582'
+global.psaweria = 'https://saweria.com/gada'
 
 /*Emoji*/
 global.rpg = {
